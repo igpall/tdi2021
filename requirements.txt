@@ -3,3 +3,4 @@ plotly
 geopandas
 sklearn
 openpyxl
+dill
