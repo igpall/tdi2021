@@ -16,7 +16,8 @@ The motivation behind this project is to identify the lifestyle factors that are
 
 6) Using convolutional neural networks, an image recognition model can be developed to track the progress of moles and other skin lesions. The goal would be to augment the real-time UV intensity reporting, and melanoma risk, with a skin diary that can be used to monitor skin features and provide an early warning. 
 
-**Interactive Access**
+**Interactive Access:**
+
 If you'd like to see the code live, you can access a live binder at https://mybinder.org/v2/gh/igpall/tdi2021/main
 
 Any comments/ideas are welcome, particularly regarding dataset sourcing.
